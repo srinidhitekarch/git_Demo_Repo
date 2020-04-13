@@ -15,15 +15,13 @@ public class demo {
 	// Repo : place where you can store your code
 	
 		System.out.println("Im learning git today");
-		
-		//On Branch MASTER
-		
 		// GIT HUB --> GIT tool , 
-		
+		//
 		// Our code to cloud.. Moving my git_Demo project to cloud
 		//if i have to move one project --> Separate repository under git hub to maintain all projects in different folder  
 		// how do you we create repository --> learnt
 		// How do you push your code to Repository
+		// git init --> 
 		// 1. Git set up to project is not done --> First we have to intialise the git to the project
 		// Git is intialised and it is ready to transfer the code to cloud
 		// 3 steps are there (Copy your code to local git repo and then same thing push it Cloud Repo)
@@ -35,6 +33,7 @@ public class demo {
 		// Now you have to set which repository to be saved --> git remote add
 		// Git Push  --> It will commit/Pushed to the cloud Repo
 		//git push success
+		//git add, git commit, git push , git status
 	}
 	
 
