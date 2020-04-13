@@ -41,8 +41,17 @@ public class demo {
 		// Master --> head
 		// Git branch <branch name>
 		//git checkout <branch name>
+
+		// as i faced conflict i given a chance to user to correct him self. 
+		//Im keeping below statements after merge
 		//im on nidhi branch
-		
+		System.out.println("Im making changes in sri branch");
+		//Will be back after 12:30PM PST
+		//git Merge  --> 2 branches --> more than 2 --> merge only 2 branches at a given time
+		//one which im currently working and another whichever you wants to merge with 
+		//im on branch sri
+		//
+
 	}
 	
 
