@@ -34,6 +34,15 @@ public class demo {
 		// Git Push  --> It will commit/Pushed to the cloud Repo
 		//git push success
 		//git add, git commit, git push , git status
+		//
+		//MASTER 
+		//Other members will be engage in coding. Root of the project and then we will create a branches for individual person
+		//differentiang by using branching 
+		// Master --> head
+		// Git branch <branch name>
+		//git checkout <branch name>
+		System.out.println("Im making changes in sri branch");
+		
 	}
 	
 
