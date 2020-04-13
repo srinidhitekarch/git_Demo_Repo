@@ -41,7 +41,7 @@ public class demo {
 		// Master --> head
 		// Git branch <branch name>
 		//git checkout <branch name>
-		System.out.println("Im making changes in sri branch");
+		System.out.println("Im making changes in nidhi branch");
 		
 	}
 	
