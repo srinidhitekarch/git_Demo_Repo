@@ -27,9 +27,14 @@ public class demo {
 		// 1. Git set up to project is not done --> First we have to intialise the git to the project
 		// Git is intialised and it is ready to transfer the code to cloud
 		// 3 steps are there (Copy your code to local git repo and then same thing push it Cloud Repo)
+		// Red -- Nothing is Saved
+		// Green --> selected file is saved
 		// Git add --> It will save the code
 		// Git commit --> It will commit to the local git Repo
+		//When you say git commit --> All the commited files will be there in localgit repo
+		// Now you have to set which repository to be saved --> git remote add
 		// Git Push  --> It will commit/Pushed to the cloud Repo
+		//git push success
 	}
 	
 
